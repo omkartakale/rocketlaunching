@@ -1,5 +1,6 @@
 # rocketlaunching
-This is simple code of C in which required information is displayed first and then a graphical representation of rocket launching program is displayed.
+This is simple code of C in which required information is 
+displayed first and then a graphical representation of rocket launching program is displayed.
 .
 .
 OUTPUT  
